@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f6d47224.css","mappings":"AAAA,KACE,SACF,CACA,MAEE,YAAY,CACZ,iBAAiB,CAFjB,WAGF,CACA,MACE,iBACF","sources":["index.css"],"sourcesContent":[".red{\n  color:red;\n}\n.form{\n  width:500px;\n  height:200px;\n  text-align:center;\n}\ninput{\n  margin-bottom:5px;\n}\n"],"names":[],"sourceRoot":""}
